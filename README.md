@@ -2,7 +2,8 @@
 
 jeu de tetris avec les mêmes rotation toute casser et le même système de points que les tetris ressentes
 
-ce programme est l'un des premiers programme que j'ai fait avec l'interface graphique pygame lorsque je ne savais pas encor bien m'en servir et n'est, par conséquant, pas du tout optimiser.
+ce programme est l'un des premiers programme que j'ai fait avec l'interface graphique pygame lorsque je ne savais pas encor bien m'en servir et n'est, par conséquant, pas du tout optimiser. <br>
+il s'agit aussi d'un de mes premiers programme à utiliser des class.
 
 lorsque la partie n'est pas lancer la touche `échappe` permet d'accéder au menu de séléction de touches. <br>
 si une partie est en cour ou fini, la touche `échappe` permet de vider le tableau et de revenur au même écran qu'avant de lancer une partie. <br>
