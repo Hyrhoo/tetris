@@ -2,7 +2,7 @@
 
 > Ce programme utilise la bibliothèque graphique **pygame** qu'il faut installer préalablement.
 
-Jeu de Tetris, reprenant le système de rotations et de points que dans les Tetris modernes.
+Jeu de Tetris, reprenant le [système de rotations](https://tetris.fandom.com/wiki/SRS) et [de points](https://tetris.fandom.com/wiki/Scoring#Guideline_scoring_system) que dans les Tetris modernes.
 
 Ce programme est l'un de mes premiers projets utilisant la bibliothèque pygame. La réalisation n'est donc pas optimale puisque c'est avec celui-ci que j'ai appris à l'utiliser. <br>
 Il s'agit également d'un de mes premiers programmes utilisant un développement orienté objet.
